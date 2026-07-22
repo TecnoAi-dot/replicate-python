@@ -10,7 +10,7 @@
 - **Lokasi jualan:** Pasar Gambar, Wonodadi, Blitar, Jawa Timur
 - **Handle Instagram:** @bakaran.to
 - **Jam operasional:** 09.00 – 21.00
-- **ElevenLabs Voice ID:** _(belum dibuat — isi setelah suara di-generate, lihat bagian G)_
+- **ElevenLabs Voice ID:** `ATloyItvZXhfD9KjRwtY`
 
 ---
 
